@@ -240,4 +240,4 @@ This repository serves as the official landing page for AVG Secure Browser. The 
 **Get the most recent version of AVG Secure Browser today!**
 
 ---
-**Last updated:** 2026-09-29 16:14:44 UTC
+**Last updated:** 2026-09-29 21:09:53 UTC
